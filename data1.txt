@@ -1,3 +1,2 @@
 Hello world
-[A[C[C[C[C[C[C[C[C[W[F
-[B
+Basics of git
